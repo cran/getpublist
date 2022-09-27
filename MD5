@@ -1,0 +1,11 @@
+06432228971ea9c2ca953d1b2b474420 *DESCRIPTION
+798c232e089f1f7ae8035b38e84c08c5 *NAMESPACE
+dfa56843a667fce9d94c36e4a65f5f26 *NEWS.md
+20a96c50bdb34460e9bbc19188bf453d *R/internal_fun.R
+0e27c6a6754fdd6fecb79a6cdffd900b *R/scrape_google_profile.R
+aba0ea01915d9612def80038662e1fde *R/scrape_pub.R
+82228942f568928da472c252d760e7a9 *man/scrape_google_profile.Rd
+789da9e9a1ae8b83861904432fbd75be *man/scrape_pub.Rd
+27edfbe0b10f61831c2d50cf64e2de6b *tests/testthat.R
+a3725fee77635f96f50b781ef2a1cf74 *tests/testthat/test-scrape_goolge_profile.R
+37d52be6bcc337053ec92eddd379f615 *tests/testthat/test-scrape_pub.R
